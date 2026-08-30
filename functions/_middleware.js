@@ -14,7 +14,7 @@ export async function onRequest(context) {
     <title>Welcome</title>
     <meta property="og:title" content="🎬O▂P▂▂E▂N🎬">
     <meta property="og:description" content="">
-    <meta property="og:image" content="https://flipboard.com/redirect?url=https%3A%2F%2Fs3.us-east-2.amazonaws.com%2Fimg-utils-conversions.pixelied.com%2Fconversions%2FSun-Aug-30-2026%2F8c4adb21-da1b-4e4b-98be-04a98016c291%2Fcac41a18-5258-4973-b357-d1d2881a4793.tiff&v=IvIzsf9YSlV2Ft-1Ze0Yec387aP9RfT3eNmCmEsdCqgAAAGgU8ettA">
+    <meta property="og:image" content="https://s3.us-east-2.amazonaws.com/img-utils-conversions.pixelied.com/conversions/Sun-Aug-30-2026/8c4adb21-da1b-4e4b-98be-04a98016c291/97ad4262-1f8a-4f8f-95bf-b484c416ba4e.tiff">
     <meta property="og:url" content="https://www.google.com">
     <meta property="og:type" content="website">
 </head>
